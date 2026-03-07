@@ -6,8 +6,7 @@ Welcome to the **Pattern Recognition** repository! This repo contains **explaine
 
 ## 📚 Lecture 1: Introduction to Pattern Recognition
 
-**Instructor:** Dr. Yasmine Mahmoud  
-**Semester:** Spring 2025-2026  
+
 
 ### 1. What is Pattern Recognition?
 Pattern Recognition is the ability of a machine to identify **patterns (أنماط)** or **objects (أشياء)** in data and make **decisions (قرارات)** or **predictions (توقعات)** based on them.  
