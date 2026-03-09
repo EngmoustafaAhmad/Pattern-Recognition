@@ -1,8 +1,6 @@
 # 📚 Lec. 2: Measured Patterns
 
-**Course:** Pattern Recognition  
-**Instructor:** Dr. Yasmine Mahmoud  
-**Semester:** Spring 2025 – 2026  
+ 
 
 ---
 
