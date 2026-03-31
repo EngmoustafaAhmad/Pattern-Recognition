@@ -1,6 +1,4 @@
-# Pattern Recognition Repository
-
-Welcome to the **Pattern Recognition** repository! This repo contains **explained lectures, practical examples, and code** to help you understand the fundamentals of pattern recognition.
+# Pattern Recognition 
 
 ---
 
