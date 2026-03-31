@@ -105,4 +105,4 @@ In Pattern Recognition:
 
 **Features (المميزات)** are functions or transformations of the measurements.
 
-In simple terms:
+
