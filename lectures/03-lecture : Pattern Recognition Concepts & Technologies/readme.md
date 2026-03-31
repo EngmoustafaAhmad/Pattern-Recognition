@@ -285,7 +285,7 @@ Analyzing facial expressions or voice to detect emotions.
 
 ---
 
-# 🔑 Summary
+#  Summary
 
 Pattern Recognition enables machines to **identify patterns and make decisions automatically**.
 
