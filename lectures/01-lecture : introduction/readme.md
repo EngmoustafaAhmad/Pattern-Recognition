@@ -12,7 +12,7 @@ Welcome to the **Pattern Recognition** repository! This repo contains **explaine
 Pattern Recognition is the ability of a machine to identify **patterns (أنماط)** or **objects (أشياء)** in data and make **decisions (قرارات)** or **predictions (توقعات)** based on them.  
 It allows machines to “see” data, learn from it, and act intelligently.
 
----
+--- 
 
 ### 2. Why Do We Need It?
 - Humans cannot process large amounts of **data (بيانات)** quickly.  
@@ -51,7 +51,7 @@ It allows machines to “see” data, learn from it, and act intelligently.
 - Facial recognition (التعرف على الوجوه)  
 
 ---
-
+ 
 ### 6. Summary
 **Pattern Recognition (التعرف على الأنماط)** is a cornerstone of modern AI.  
 **Process:** Machine sees data → extracts important features → classifies or makes decisions.  
