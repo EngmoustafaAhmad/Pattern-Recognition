@@ -1,9 +1,5 @@
 # 📚 Lec. 5: Types of Pattern Recognition Systems & Feature Extraction
 
-**Course:** Pattern Recognition  
-**Instructor:** Dr. Yasmine Mahmoud  
-**Semester:** Spring 2025 – 2026  
-
 ---
 
 # 1. Types of Pattern Recognition Systems
