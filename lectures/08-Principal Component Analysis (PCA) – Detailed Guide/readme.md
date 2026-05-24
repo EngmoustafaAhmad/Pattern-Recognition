@@ -193,9 +193,3 @@ It is widely used in:
 
 ---
 
-## ✍️ Author
-
-Dr. Yasmine Mahmoud
-Spring Semester 2025–2026
-
----
